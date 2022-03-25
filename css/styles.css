@@ -67,3 +67,45 @@ a:link, a:visited {
     padding: 30px;
     text-align: center;
 }
+
+.content{
+    position: relative;
+/*     border: 5px solid yellow; */
+    height: 650px;
+    padding: 20px;
+}
+
+.content-left{
+    position: absolute;
+/*     border: 5px solid blue; */
+    display: inline-block;
+    left: 35px;
+}
+
+.content-right{
+    position: absolute;
+    /* border: 5px solid red; */
+    display: inline-block;
+    right: 35px;
+}
+
+@media screen and (max-width: 1451px){
+    .HomePage{
+/*         background-color: coral; */
+        margin-left: 0px;
+    }
+
+    .content{
+        padding: 10px;
+    }
+
+    .content-right{
+        display: none;
+    }
+    .content-left{
+        margin-left: px;
+        left: 0px;
+        overflow: auto;
+    }
+
+}
