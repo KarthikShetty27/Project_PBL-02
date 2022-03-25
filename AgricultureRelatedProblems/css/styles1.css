@@ -1,0 +1,17 @@
+/* Agriculture Related Problems CSS */
+.Agriculture-Related-Problems{
+    background-color: #fbf8f19f;
+    padding: 20px;
+    margin: 20px;
+    height: 90%;
+}
+
+.h3{
+    font-family: 'Montserrat', sans-serif;;
+}
+
+.Point-1,.Point-2,.Point-3,.Point-4,.Point-5,.Point-6{
+    text-align: center;
+    line-height: 2;
+    font-family: 'Merriweather', serif;
+}

@@ -1,0 +1,69 @@
+/* Index.html CSS */
+
+body{
+    margin: 0;
+}
+
+h1, h5, h4, p {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Merriweather', serif;   
+}
+
+p {
+    text-align: justify;
+    line-height: 2.25;
+}
+
+a:link, a:visited {
+    color: black;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+.HomePage{
+    background-color: #fbf8f19f;
+    padding: 20px;
+    margin: 20px;
+    height: 550px;
+    width: 600px;
+}
+
+
+#carouselSlidesOnly{
+    margin: 20px;
+    padding: 20px;
+    height: 550px;
+    width: 700px;
+}
+
+.carousel-inner{
+    padding: 20px;
+}
+
+.Contact-Us{
+    text-align: center;
+    color: white;
+    height: 230px;
+    width: 100%;
+    background-color: #519259;
+    border-bottom: 0;
+    margin-bottom: 0;
+}
+
+.Contact{
+    text-align: center;
+    border-bottom: 0;
+    margin-bottom: 0;
+}
+
+/* Agriculture Related Problems CSS */
+
+.card{
+    margin: 20px 50px;
+    padding: 30px;
+    text-align: center;
+}
