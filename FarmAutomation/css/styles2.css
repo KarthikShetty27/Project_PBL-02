@@ -1,0 +1,24 @@
+/* Farm-Automation CSS */
+
+.Farm-Automation{
+    background-color: #fbf8f19f;
+    padding: 20px;
+    margin: 20px;
+    height: 90%;
+    text-align: center;
+    line-height: 2;
+    font-family: 'Merriweather', serif;
+}
+
+p{
+    text-align: justify;
+}
+
+h3{
+    text-align: start;
+}
+
+.h3, .h2{
+    font-family: 'Montserrat', sans-serif;;
+}
+
